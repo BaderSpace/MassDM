@@ -13,9 +13,9 @@
     Coming soon...
   </h1>
     
-  <a href="https://github.com/dropout1337/Discord-Mass-DM/issues">Report Bug</a>
+  <a href="https://github.com/BaderSpace/MassDM/issues">Report Bug</a>
   .
-  <a href="https://github.com/dropout1337/Discord-Mass-DM/issues">Request Feature</a>
+  <a href="https://github.com/BaderSpace/MassDM/issues">Request Feature</a>
   </p>
   <div id="top"></div>
   <p align="center">

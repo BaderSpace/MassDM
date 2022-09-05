@@ -13,16 +13,16 @@
     Coming soon...
   </h1>
     
-  <a href="https://github.com/dropout1337/Discord-Mass-DM/issues">Report Bug</a>
+  <a href="https://github.com/BaderSpace/MassDM/issues">Report a Bug</a>
   .
-  <a href="https://github.com/dropout1337/Discord-Mass-DM/issues">Request Feature</a>
+  <a href="https://github.com/BaderSpace/MassDM/issues">Request features</a>
   </p>
   <div id="top"></div>
   <p align="center">
   
   <a href="https://github.com/BaderSpace/MassDM/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/BaderSpace/MassDM?style=for-the-badge"></a>
-  <a href="https://github.com/BaderSpace/MassDM/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/BaderSpace/MassDM?style=for-the-badge"></a>
   <a href="https://github.com/BaderSpace/MassDM/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/BaderSpace/MassDM?style=for-the-badge"></a>
+  <a href="https://github.com/BaderSpace/MassDM/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/BaderSpace/MassDM?style=for-the-badge"></a>
   <a href="https://github.com/BaderSpace/MassDM"><img alt="GitHub license" src="https://img.shields.io/github/license/BaderSpace/MassDM?style=for-the-badge"></a>
 </p>
 </div>

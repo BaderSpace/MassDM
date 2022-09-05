@@ -21,7 +21,7 @@ def send_attachment(token):
     }
 
     r = requests.post(
-        "https://discord.com/api/v9/channels/384436194748137474/messages", data=payload, headers=header, files=attachments)
+        "https://discord.com/api/v9/channels/test/messages", data=payload, headers=header, files=attachments)
 
 
 send_attachment(token)

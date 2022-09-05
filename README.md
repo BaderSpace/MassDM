@@ -13,9 +13,9 @@
     Coming soon...
   </h1>
     
-  <a href="https://github.com/BaderSpace/MassDM/issues">Report Bug</a>
+  <a href="https://github.com/BaderSpace/MassDM/issues">Report a Bug</a>
   .
-  <a href="https://github.com/BaderSpace/MassDM/issues">Request Feature</a>
+  <a href="https://github.com/BaderSpace/MassDM/issues">Request features</a>
   </p>
   <div id="top"></div>
   <p align="center">

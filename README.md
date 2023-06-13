@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/BaderSpace/MassDM">
-    <img src="https://i.imgur.com/Of3cawZ.png" alt="Logo">
+    <img src="https://i.imgur.com/w56ekjr.png" alt="Logo">
   </a>
     <br />
     <br />
